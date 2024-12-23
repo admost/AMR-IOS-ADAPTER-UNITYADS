@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'AMRAdapterUnity-Beta'
-  s.version          = '4.12.4.1'
+  s.version          = '4.12.5.0'
   s.license          = { :type => 'Copyright', :text => <<-LICENSE
 														Copyright 2016
 														Admost Mediation Limited. 
@@ -26,5 +26,5 @@ Pod::Spec.new do |s|
     'VALID_ARCHS[sdk=iphonesimulator*]' => 'x86_64 arm64'
   }
   s.dependency 'AMRSDK-Beta', '~> 1.5.52'
-  s.dependency 'UnityAds', '4.12.4'
+  s.dependency 'UnityAds', '4.12.5'
 end
