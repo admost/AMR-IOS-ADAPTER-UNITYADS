@@ -3,6 +3,10 @@
 Changelog for AMRAdapterUnity. 
 UnityAds [changelog](https://github.com/Unity-Technologies/unity-ads-ios/releases)
 
+## [4.15.0.0] - 2025-06-16
+### Updated
+- Offical release for UnityAds 4.15.0
+
 ## [4.14.2.0] - 2025-05-26
 ### Updated
 - Offical release for UnityAds 4.14.2
