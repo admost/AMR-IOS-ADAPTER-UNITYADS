@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'AMRAdapterUnity'
-  s.version          = '4.15.0.0'
+  s.version          = '4.16.0.0'
   s.license          = { :type => 'Copyright', :text => <<-LICENSE
 														Copyright 2016
 														Admost Mediation Limited. 
@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
  								}
   s.documentation_url = 'https://admost.github.io/amrios/'
   s.platform 			= :ios
-  s.ios.deployment_target = '12.0'
+  s.ios.deployment_target = '13.0'
   s.swift_versions = ['5']
   s.vendored_frameworks = 'AMRAdapterUnity/Libs/AMRAdapterUnity.xcframework'
   s.pod_target_xcconfig = { 
@@ -26,5 +26,5 @@ Pod::Spec.new do |s|
     'VALID_ARCHS[sdk=iphonesimulator*]' => 'x86_64 arm64'
   }
   s.dependency 'AMRSDK', '~> 1.5.55'
-  s.dependency 'UnityAds', '4.15.0'
+  s.dependency 'UnityAds', '4.16.0'
 end
