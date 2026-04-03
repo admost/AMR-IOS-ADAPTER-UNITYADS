@@ -13,7 +13,7 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(url: "https://github.com/admost/AMR-IOS-SDK.git", from: "1.5.84")
+        .package(url: "https://github.com/admost/AMR-IOS-SDK.git", from: "1.5.85")
     ],
     targets: [
         .target(
@@ -31,8 +31,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "AMRAdapterUnityLib",
-            url: "https://github.com/admost/AMR-IOS-ADAPTER-UNITYADS/releases/download/4.17.0/AMRAdapterUnity.xcframework.zip",
-            checksum: "ac2aec4f7e9fa7d8aeaba5cde5a11062ee5dafc75bab467836f5a153c92b2dd1"
+            url: "https://github.com/admost/AMR-IOS-ADAPTER-UNITYADS/releases/download/4.17.1/AMRAdapterUnity.xcframework.zip",
+            checksum: "891023f3bd21cc9a11eb7ffc1adad5223fa1d0bffeee333722426dfa79ff3498"
         ),
         .binaryTarget(
             name: "UnityAdsLib",

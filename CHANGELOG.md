@@ -3,10 +3,13 @@
 Changelog for AMRAdapterUnity. 
 UnityAds [changelog](https://github.com/Unity-Technologies/unity-ads-ios/releases)
 
+## [4.17.1] - 2026-04-03
+### Updated
+- Bidding support added.
+
 ## [4.17.0] - 2026-03-24
 ### Added
 - SPM support added.
-- Bidding support added.
 
 ## [4.16.6.0] - 2025-02-13
 ### Updated
