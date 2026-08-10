@@ -3,6 +3,11 @@
 Changelog for AMRAdapterUnity. 
 UnityAds [changelog](https://github.com/Unity-Technologies/unity-ads-ios/releases)
 
+## [4.19.0] - 2026-08-10
+### Updated
+- Official release for UnityAds 4.19.0
+- Banner migrated from the deprecated `UADSBannerView` to `UADSBannerAd` / `UADSBannerLoadConfiguration`
+
 ## [4.17.1] - 2026-04-03
 ### Updated
 - Bidding support added.
