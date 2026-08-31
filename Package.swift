@@ -13,7 +13,7 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(url: "https://github.com/admost/AMR-IOS-SDK.git", from: "1.5.85")
+        .package(url: "https://github.com/admost/AMR-IOS-SDK.git", from: "1.6.0-beta.1")
     ],
     targets: [
         .target(
