@@ -3,6 +3,11 @@
 Changelog for AMRAdapterUnity. 
 UnityAds [changelog](https://github.com/Unity-Technologies/unity-ads-ios/releases)
 
+## [4.21.0] - 2026-10-05
+### Updated
+- Official release for UnityAds 4.21.0
+- Migrated to the new Unity Ads API: initialization via UADSInitializationConfiguration, interstitial/rewarded via UADSInterstitialAd/UADSRewardedAd, bidding tokens via UADSTokenConfiguration, and UADSMediationInfo on all requests. Unity no longer warns about mixing deprecated and new APIs on banner loads.
+
 ## [4.19.0] - 2026-08-10
 ### Updated
 - Official release for UnityAds 4.19.0

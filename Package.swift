@@ -31,13 +31,13 @@ let package = Package(
         ),
         .binaryTarget(
             name: "AMRAdapterUnityLib",
-            url: "https://github.com/admost/AMR-IOS-ADAPTER-UNITYADS/releases/download/4.19.0/AMRAdapterUnity.xcframework.zip",
-            checksum: "cb185b9ca0574fdd7c940b7384fa8240288c821dc6cdcd3a3ae630b42d890dd6"
+            url: "https://github.com/admost/AMR-IOS-ADAPTER-UNITYADS/releases/download/4.21.0/AMRAdapterUnity.xcframework.zip",
+            checksum: "ac781bfede7fa12191adf13c204fa1e6b8022c4ff6557c60ca6a2cba07010278"
         ),
         .binaryTarget(
             name: "UnityAdsLib",
-            url: "https://github.com/Unity-Technologies/unity-ads-ios/releases/download/4.19.0/UnityAds.zip",
-            checksum: "526c3a285dfa3216d5a065d99533cfa67cd2b8a872b230811a8907c9e5ebec4a"
+            url: "https://github.com/Unity-Technologies/unity-ads-ios/releases/download/4.21.0/UnityAds.zip",
+            checksum: "ca0b2a3c5529c0fd4211a8afa61390ded8a64ea218c69056cffbc2ad31c399f8"
         )
     ]
 )
